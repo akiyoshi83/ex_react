@@ -8,6 +8,6 @@ https://facebook.github.io/react/docs/tutorial.html
 
 
 ```bash
-npm instal
+npm install
 npm start
 ```
